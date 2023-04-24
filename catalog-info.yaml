@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-templates-all
+  annotations:
+    github.com/project-slug: markcunninghamuk/backstage-templates-all
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
